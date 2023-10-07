@@ -4,7 +4,7 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
+  color: black;
   background-color: #242424;
 
   font-synthesis: none;
@@ -30,6 +30,7 @@ body {
   min-width: 320px;
   min-height: 100vh;
   background-color: rgb(241, 225, 196);
+  text-decoration-color: black;
   /*background-image:url(https://www.shutterstock.com/shutterstock/photos/2291594251/display_1500/stock-vector-blue-dot-world-map-on-white-background-2291594251.jpg); 
   */
 }
@@ -110,5 +111,5 @@ button:focus-visible {
 }
 .nextCard{
   background-color: white;
-
+  color:black;
 }
